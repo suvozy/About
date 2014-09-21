@@ -24,4 +24,4 @@ Publications
 
 - S. Saha, M. Agarwal. **Atooms to Moolecule (Game Design Abstract)**, In the Proceedings of SPAC TRIGGER Vol. 24 Delhi Technological University (IEEE Student Branch). Delhi, India. 2011.
 
-  [PDF]
+  [DECTech Archive](http://www.dcetech.com/ieee/wp-content/uploads/2011/04/trigger%20small.pdf)
