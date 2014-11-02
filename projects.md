@@ -6,16 +6,20 @@ Undergarduate Project
 
 - Application of GIS in Rural Road and Habitation Mapping
 
-- [PDF]
+  [PDF]
+
 
 Games
 ---
 
 - Sign Line (Coming up..)
 
+  [Blog] ?
+
+
 - Atooms to Moolecules
 
-  [Blog, Video, Video2, Windows Phone, Steam]
+  [Blog, Video, Video2, Windows Phone, Steam] Dev ?
 
 
 - Treasure Island
@@ -50,13 +54,22 @@ Games
 
 - Gombli
 
-  [Dev, Blog, Video]
+  [Dev, Blog, Video] (more dev) ?
+
+
+- Space
+
+  [Blog] ?
 
 
 Other
 ---
 
+- Cops and Roobers
+
+  [Blog] ?
+
+
 - Rubic’s Cube Solver
 
   [Blog]
-
