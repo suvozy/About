@@ -6,4 +6,4 @@ Todo list
 - [x] Rename Asset Folders
 - [ ] Github Desc links
 - [ ] more post of old images
-- [ ] MissMaya.in
+- [x] MissMaya.in
