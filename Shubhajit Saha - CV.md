@@ -95,38 +95,41 @@ BitSits Framework
 Microsoft® XNA and .NET based game engine developed for rapid prototyping. It runs on multiple platforms (Windows and Windows Phone 7). It also supports Erin Catto’s Box2D physics engine under the MIT License.
 Gombli (Team size - 2)
 A single player platformer game, the game character Gombli is an 11 year old girl. Gombli fights pollutants (Carbon dioxide and Chlorofluorocarbon) and solves puzzles on her quest. The game was made as an entry in Imagine Cup Game Design Competition 2010 Round 1.
-Other Prototypes
-Rubik’s Cube Solver
-The solver uses Korf’s algorithm also called IDA*. The implementation is similar to JappScherphuis’sCubie. The cube can be solved with a maximum depth of 25.
-Sign Line (Team size - 2)
-In the game player solves the puzzle by joining same kind of symbols. The player can join the symbols either linearly or by making loops. The game was made as an entry in Imagine Cup Game Design Competition 2011 Round 1. Windows Phone Market Place Product ID: b7b7f1fd-ca18-4030-8281-2f6a0eed63d0
-Treasure Island
-A game made in 48 hr made for Ludum Dare #19 competition. In the game you collect as many treasure chest as you can and find the cross mark to go to the next level. To move to the next island use the boat. The game was also submitted in Experimental Gameplay Projects - December DRAWING.
-Windows Phone Market Place Product ID: 8d73dd02-c8b7-4f52-8725-9394006a8333
-Moolecule
-A game about connecting the atomic creatures to make bigger and bigger molecules. The game was developed for Experimental Gameplay Projects - Two Months of CASUAL ADDICTION for June and July.
-Apple e Apple
-In the game you have to grow an apple tree and lots of apples before you collect all the arrows. The game was developed for Experimental Gameplay Projects - Two Months of CASUAL ADDICTION for June and July.
-Speedy Crash
-Physics based game where you are trapped in an endless asteroid belt, where you crash into them using your velocity. This game was developed for Experimental Gameplay Projects - The May theme May means HIGH VELOCITY.
+
+# Other Prototypes
+- **Rubik’s Cube Solver** 
+  The solver uses Korf’s algorithm also called IDA*. The implementation is similar to JappScherphuis’sCubie. The cube can be solved with a maximum depth of 25.
+
+- **Sign Line (Team size - 2)**  
+  In the game player solves the puzzle by joining same kind of symbols. The player can join the symbols either linearly or by making loops. The game was made as an entry in Imagine Cup Game Design Competition 2011 Round 1.  
+  Windows Phone Market Place Product ID: b7b7f1fd-ca18-4030-8281-2f6a0eed63d0
+
+- **Treasure Island**
+  A game made in 48 hr made for Ludum Dare #19 competition. In the game you collect as many treasure chest as you can and find the cross mark to go to the next level. To move to the next island use the boat. The game was also submitted in Experimental Gameplay Projects - December DRAWING.  
+  Windows Phone Market Place Product ID: 8d73dd02-c8b7-4f52-8725-9394006a8333
+
+- **Moolecule**  
+  A game about connecting the atomic creatures to make bigger and bigger molecules. The game was developed for Experimental Gameplay Projects - Two Months of CASUAL ADDICTION for June and July.
+
+- **Apple e Apple**  
+  In the game you have to grow an apple tree and lots of apples before you collect all the arrows. The game was developed for Experimental Gameplay Projects - Two Months of CASUAL ADDICTION for June and July.
+
+- **Speedy Crash**
+  Physics based game where you are trapped in an endless asteroid belt, where you crash into them using your velocity. This game was developed for Experimental Gameplay Projects - The May theme May means HIGH VELOCITY.
 
 ## References
-- **Dr. Goutam Paul**  
-  Asst. Professor, Computer Science & Engineering  
+- **Dr. Goutam Paul** Asst. Professor, Computer Science & Engineering  
   Jadavpur University, Kolkata – 700 032.  
   E-mail: goutam.paul@ieee.org
 
-- **Dr. Sujata Biswas**
-  Professor, Civil Engineering  
+- **Dr. Sujata Biswas** Professor, Civil Engineering  
   Bengal Engineering and Science University.  
   E-mail: sujata@civil.becs.ac.in
 
-- **Dr. Kalyan Kumar Bhar**
-  Professor & Head, Civil Engineering  
+- **Dr. Kalyan Kumar Bhar** Professor & Head, Civil Engineering  
   Bengal Engineering and Science University.  
   E-mail: kalyan@civil.becs.ac.in
 
-- **Gaurav Singh**  
-  Senior PS3 Programmer  
+- **Gaurav Singh** Senior PS3 Programmer  
   Ubisoft, Pune.  
   E-mail: gaurav.singh@ubisoft.com
