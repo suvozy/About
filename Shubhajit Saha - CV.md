@@ -1,24 +1,31 @@
 # Shubhajit Saha
+60, Sadar Buxi Lane.  
+Howrah – 711 101.  
+West Bengal, India.  
+  
+Phone: +91 – 99701 86882  
+E-mail: shubhajit@iitb.ac.in  
+Web blog: http://suvozit.com/  
 
 ## Research Interest
 Social Computing, Human Computer Interaction, Interaction Design, Fluid Interfaces, Technologies in Learning, Game Design, Artificial Intelligence.
 
 ## Education
-Bachelor of Engineering in Civil Engineering, Bengal Engineering and Science University, Shibpur.
-2007 to 2011, Percentage: 68.4%, First Class (semester wise 71.9, 75.8, 66.9, 66.9, 69.7, 62.4, 67.7, 66.6)
+- **Bachelor of Engineering in Civil Engineering**, Bengal Engineering and Science University, Shibpur.  
+  *2007 to 2011, Percentage: 68.4%, First Class (semester wise 71.9, 75.8, 66.9, 66.9, 69.7, 62.4, 67.7, 66.6)*
 
-Senior Secondary, Indian School Certificate.
-2005 to 2007, Marias’ Day School, Howrah. Percentage: 86.6%
+- **Senior Secondary**, Indian School Certificate.  
+  *2005 to 2007, Marias’ Day School, Howrah. Percentage: 86.6%*
 
-Secondary Education, Indian Council of Secondary Examination.
-1995 to 2005, St. Aloysious’ Orphanage and Day School, Howrah. Percentage: 78.4%
+- **Secondary Education**, Indian Council of Secondary Examination.  
+  *1995 to 2005, St. Aloysious’ Orphanage and Day School, Howrah. Percentage: 78.4%*
 
 ## Work Experience
-- Research Associate at IDC, IIT Bombay
-  Jan 2013, Industrial Design Center, Indian Institute of Technology.
+- **Research Associate** at IDC, IIT Bombay  
+  *Jan 2013, Industrial Design Center, Indian Institute of Technology.*
 
-- Gameplay Programmer at Ubisoft
-  Oct 2011 to Dec 2012, Ubisoft, Pune.
+- **Gameplay Programmer** at Ubisoft  
+  *Oct 2011 to Dec 2012, Ubisoft, Pune.*
 
 ## Technical Clubs and Association
 - Co-Founder/Owner of BitSits Games.
@@ -44,9 +51,8 @@ Rank of 192 (38th in India) during summer 2009, SPOJ. SPOJ has 250,000+ particip
 Maximum TopCoder Rating of 1076 (Green member) during summer 2009.
 Ranked 1248 (top 0.5%) in WBJEE, state engineering admission exam, 2007.
 State Rank of 732 (500,000+ applicants) in AIEEE, national engineering admission exam, 2007.
-60, Sadar Buxi Lane. Howrah – 711 101. West Bengal, India.
-Phone: +91 – 99701 86882 E-mail: shubhajit@iitb.ac.in Web blog: http://suvozit.com/
-Publications
+
+## Publications
 S. Saha, G. Paul. On effective Sharing of User Generated Content. In the Proceedings of ACM APCHI 2013. Bengaluru, India. 2013.
 M. Agarwal, S. Saha. Interactive Entertainment Software for Learning chemistry, In the Proceedings of Grace Hopper Celebration of Women in Computing India. Bangalore, India. 2012.
 M. Agarwal, S. Saha. Environment Educational Game Design, In the Proceedings of Grace Hopper Celebration of Women in Computing India. Bangalore, India. 2011.
@@ -58,13 +64,15 @@ Nov 2012, NAASCOM Game Developer Conference. Pune, India.
 Jun 2012, Electronic Entertainment Expo (E3), Los Angeles Convention Center, USA.
 Dec 2011, Grace Hopper Celebration of Women in Computing India. Bangalore, India.
 Feb 2011, Students’ Professional Awareness Conference (SPAC).Delhi Technological University, Delhi, India. Jan 2011, Speaker of Game Design Lecture in BIT, Techno India. Kolkata, India.
-Skill Set
+
+## Skill Set
 Operating Systems: Windows, GNU/Linux.
 Programming Languages: C#, C, C++, Java.
 API/Frameworks: OpenGL, DirectX 9, XNA (3.0, 4.0), WP7 Dev Tool, .NET (2.0, 3.5), Windows API. Web Technologies: HTML, XML, JavaScript, PHP, CSS, Silverlight, Zend Framework.
 Graphics Editors: Adobe Illustrator, Adobe Photoshop.
 Audio/Video Editors: NCH WavePad, Adobe Premiere, Microsoft Expression Encoder 3.
-Projects
+
+## Projects
 LogPIXEL (Ongoing)
 Create a unified platform which will bring together users fragmented data and information. The idea is to integrate all popular web services and create a unique experience.
 Squares Vs Triangles 2: War Again (Ongoing, Role: Mentor)
@@ -101,16 +109,24 @@ Apple e Apple
 In the game you have to grow an apple tree and lots of apples before you collect all the arrows. The game was developed for Experimental Gameplay Projects - Two Months of CASUAL ADDICTION for June and July.
 Speedy Crash
 Physics based game where you are trapped in an endless asteroid belt, where you crash into them using your velocity. This game was developed for Experimental Gameplay Projects - The May theme May means HIGH VELOCITY.
-References
-Dr. Goutam Paul
-Asst. Professor, Computer Science & Engineering Jadavpur University, Kolkata – 700 032.
-E-mail: goutam.paul@ieee.org
-Dr. Sujata Biswas
-Professor, Civil Engineering
-Bengal Engineering and Science University. E-mail: sujata@civil.becs.ac.in
-Dr. Kalyan Kumar Bhar
-Professor & Head, Civil Engineering Bengal Engineering and Science University. E-mail: kalyan@civil.becs.ac.in
-Gaurav Singh
-Senior PS3 Programmer
-Ubisoft, Pune.
-E-mail: gaurav.singh@ubisoft.com
+
+## References
+- **Dr. Goutam Paul**  
+  Asst. Professor, Computer Science & Engineering  
+  Jadavpur University, Kolkata – 700 032.  
+  E-mail: goutam.paul@ieee.org
+
+- **Dr. Sujata Biswas**
+  Professor, Civil Engineering  
+  Bengal Engineering and Science University.  
+  E-mail: sujata@civil.becs.ac.in
+
+- **Dr. Kalyan Kumar Bhar**
+  Professor & Head, Civil Engineering  
+  Bengal Engineering and Science University.  
+  E-mail: kalyan@civil.becs.ac.in
+
+- **Gaurav Singh**  
+  Senior PS3 Programmer  
+  Ubisoft, Pune.  
+  E-mail: gaurav.singh@ubisoft.com
