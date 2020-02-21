@@ -27,7 +27,7 @@ Publications
   [PDF](https://github.com/BitSits/Atooms-to-Moolecules/blob/master/Jams%20%26%20Techfest/Troika.dcetech.com/trigger%20small.pdf),
   [DECTech Archive](http://www.dcetech.com/ieee/wp-content/uploads/2011/04/trigger%20small.pdf)
 
-- S. Alam, S. Saha, S. Biswas, **Application of GIS in Rural Road and Habitation Mapping**, Under Graduate Thesis of Civil Engineering at IIEST Shibpur. Howrah, India 2011.
+- S. Alam, S. Saha, S. Biswas, **Application of GIS in Rural Road and Habitation Mapping**, Undergraduate Thesis for Civil Engineering at IIEST Shibpur. Howrah, India 2011.
 
   [PDF](https://github.com/iiests-CE-110407060/8th-Sem-Project/blob/master/Document.pdf),
   [Slides](https://github.com/iiests-CE-110407060/8th-Sem-Project/blob/master/Presentation.pdf)
