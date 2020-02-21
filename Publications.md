@@ -29,6 +29,6 @@ Publications
 
 - S. Alam, S. Saha, S. Biswas, **Application of GIS in Rural Road and Habitation Mapping**, Undergraduate Thesis for Civil Engineering at IIEST Shibpur. Howrah, India 2011.
 
-  ![](Portfolio/arambagh.JPG), ![](Portfolio/buff.PNG)  
+  ![](Portfolio/arambagh.JPG)  ![](Portfolio/buff.PNG)  
   [PDF](https://github.com/iiests-CE-110407060/8th-Sem-Project/blob/master/Document.pdf)
   [Slides](https://github.com/iiests-CE-110407060/8th-Sem-Project/blob/master/Presentation.pdf)
