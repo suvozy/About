@@ -18,13 +18,13 @@ Publications
 
 - S. Saha, M. Agarwal. **Learning Chemistry through Puzzle Based Game: Atoms to Molecule**, In the Proceedings of 9th IEEE International Conference on Emerging eLearning Technologies and Applications 2011. Stara Lesna, Slovakia. 2011.
 
-  [PDF](https://github.com/suvozit/2011-ICETA/blob/master/Learning%20Chemistry%20Through%20Puzzle%20Based%20Game%20-%20Atoms%20to%20Molecule.pdf),
-  [IECTA](https://www.iceta.sk/_archiv/2011/proceedings/iceta2011_saha.pdf),
+  [PDF](https://github.com/suvozit/2011-ICETA/blob/master/Learning%20Chemistry%20Through%20Puzzle%20Based%20Game%20-%20Atoms%20to%20Molecule.pdf)
+  [IECTA](https://www.iceta.sk/_archiv/2011/proceedings/iceta2011_saha.pdf)
   [IEEE](https://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6112613)
 
 - S. Saha, M. Agarwal. **Atooms to Moolecule (Game Design Abstract)**, In the Proceedings of SPAC TRIGGER Vol. 24 Delhi Technological University (IEEE Student Branch). Delhi, India. 2011.
 
-  [PDF](https://github.com/BitSits/Atooms-to-Moolecules/blob/master/Jams%20%26%20Techfest/Troika.dcetech.com/trigger%20small.pdf),
+  [PDF](https://github.com/BitSits/Atooms-to-Moolecules/blob/master/Jams%20%26%20Techfest/Troika.dcetech.com/trigger%20small.pdf)
   [DECTech](http://www.dcetech.com/ieee/wp-content/uploads/2011/04/trigger%20small.pdf)
 
 - S. Alam, S. Saha, S. Biswas, **Application of GIS in Rural Road and Habitation Mapping**, Undergraduate Thesis for Civil Engineering at IIEST Shibpur. Howrah, India 2011.
