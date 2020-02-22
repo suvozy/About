@@ -14,4 +14,4 @@ Previously I have done research on Educational Games for children. It was intere
 
 My research goal is to provide unified solution to the weird and unique problems. Professor QW has encouraged me to apply for HCII PhD. program. My primary research interests are Social Computing, Enabling Technologies and Learning Sciences and Technologies; and its respective ongoing HCII projects that I would like to work on are A (X), B (Y) and C (Z). It would be a great opportunity to be a part of HCII PhD. program, which is known as one of the best HCI School. I believe that this institute will help me hone my research skills perfectly and grow me to become a significant contributor in this field.
 
-[CV](CV.pdf) [Portfolio](Portfolio.pdf) [Blog](//www.shubhajitsaha.com) [Work](//www.bitsits.games)
+[CV](CV.pdf) [Portfolio](Portfolio.pdf) [Research](Research.pdf) [Blog](//www.shubhajitsaha.com) [Work](//www.bitsits.games)
