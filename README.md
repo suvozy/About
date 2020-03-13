@@ -5,7 +5,7 @@ About
 
 ![Scan QR](https://github.com/suvozit/About/blob/master/www.shubhajitsaha.com.svg)
 
-[Visit Web "shubhajitsaha.com"](https://shubhajitsaha.com)
+[Visit Web "shubhajitsaha.com"](https://shubhajitsaha.com) ↗  
 
 ## Add Contact
 
