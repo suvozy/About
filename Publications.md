@@ -22,6 +22,8 @@ Publications
   [IECTA](https://www.iceta.sk/_archiv/2011/proceedings/iceta2011_saha.pdf)
   [IEEE](https://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6112613)
 
+- S. Saha, Goutam Paul. **Cops and Robbers with Multiplicity**. Analyze the „cops and robber‟ game with the modification to the game rule that even cops are venerable, multiple robbers are present and multiple cops can sit in a single grid. The objective was to find the multiplicity of the cops required to catch all the robbers, where multiplicity is the number of cops that can be placed in a single grid.
+
 - S. Saha, M. Agarwal. **Atooms to Moolecule (Game Design Abstract)**, In the Proceedings of SPAC TRIGGER Vol. 24 Delhi Technological University (IEEE Student Branch). Delhi, India. 2011.
 
   [PDF](https://github.com/BitSits/Atooms-to-Moolecules/blob/master/Jams%20%26%20Techfest/Troika.dcetech.com/trigger%20small.pdf)
@@ -32,3 +34,4 @@ Publications
   ![](Portfolio/arambagh.JPG)  ![](Portfolio/buff.PNG)  
   [PDF](https://github.com/iiests-CE-110407060/8th-Sem-Project/blob/master/Document.pdf)
   [Slides](https://github.com/iiests-CE-110407060/8th-Sem-Project/blob/master/Presentation.pdf)
+
