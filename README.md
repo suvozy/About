@@ -1,11 +1,13 @@
 About
 =====
 
-![QR](https://raw.githubusercontent.com/suvozit/About/master/www.shubhajitsaha.com.svg)
-
 ## Scan QR
 
-![Contact](https://github.com/suvozit/About/blob/master/Contact.svg)
+![Scan QR](https://github.com/suvozit/About/blob/master/www.shubhajitsaha.com.svg)
 
+[Visit Web "shubhajitsaha.com"](https://shubhajitsaha.com)
 
-[Web](https://shubhajitsaha.com)
+## Add Contact
+
+![Add Contact](https://github.com/suvozit/About/blob/master/Contact.svg)
+
