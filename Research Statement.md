@@ -16,6 +16,6 @@ Previously I have done research on Educational Games for children. It was intere
 
 My research goal is to provide unified solution to the weird and unique problems. My primary research interests are Social Computing, Interaction and Infrastructure and Technology and Learning; and its respective ongoing HCC (Human Centered Computing) projects that I would like to work on are Teens as Designers of Social Networks (Amy Bruckman), LiquidText at PIXI Lab (Keith Edwards) and DigiQuilt (Janet Kolodner). It would be a great opportunity to be a part of HCC PhD. program, which is known as one of the best HCI School. I believe that this institute will help me hone my research skills perfectly and grow me to become a significant contributor in this field.
 
-[CV](//github.com/suvozit/About/blob/master/CV.pdf) [Portfolio](//github.com/suvozit/About/blob/master/Portfolio.pdf) [Publications](//github.com/suvozit/About/blob/master/Publications.md) 
+[CV](//github.com/suvozit/About/blob/master/CV.pdf) [Full](//github.com/suvozit/About/blob/master/CV%20ALL.pdf.pdf) [Portfolio](//github.com/suvozit/About/blob/master/Portfolio.pdf) [Publications](//github.com/suvozit/About/blob/master/Publications.md) 
 
 [Blog](//www.shubhajitsaha.com) [Projects](//www.bitsits.games/p/projects.html)
