@@ -14,13 +14,13 @@ suvozit@icloud.com
 	* Implemented redesign of the website, storefront for customers, and architecture for multiple customer categories in a single tenancy.
 * Automated deployment by implementing CI/CD for Bitbucket Pipelines which also resulted in a 96% faster page load while using CDN for assets rendering.
 	CEO & Founder
-	Rhyme, Bengaluru
+	RhymeTek, Bengaluru
 	APR 2015  - DEC 2017
 	* Rime was a content aggregation platform that allowed creators to build and host blogs.
 * Led the entire product development lifecycle from ideation to design to development based on constant feedback from early adopters.
 * Successfully implemented a content marketing strategy that was bringing 90% of the organic traffic.
 	Sr Project Technical Assistant
-	IDC IIT, Bombay
+	IDC IITB, Mumbai
 	JAN 2013 - MAR 2015
 	* Redesigned and built Dsource e-Kalpa from HTML publishing to WordPress CMS.
 * Developed a storytelling platform “String Your Story”, the idea was to collaborate with a different mix of artists and create stories of multiple interpretations.
