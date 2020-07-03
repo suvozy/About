@@ -31,7 +31,7 @@ suvozit@icloud.com
 	* Worked on gameplay and compliance for Far Cry Classic PS3 & X360 which is a port of the first Far Cry developed by Crytek 2004.
 * Translated PC Gameplay mechanics to console and PS3 Move Motion controller, implemented aim assist, responsive HUD for HD, and CRT TV.
 	EDUCATION
-	B.E. Civil Engineering
+	BE Civil Engineering
 	IIEST, Shibpur
 	2007 - 2011
 	* Undergraduate Thesis “Application of GIS in Rural Road and Habitation Mapping”. Developed a habitation database and rural road network database at the block level.
