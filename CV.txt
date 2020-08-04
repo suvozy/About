@@ -7,12 +7,12 @@ suvozit@icloud.com
 	Independent Consultant
 	Upwork
 	OCT  2018 - PRESENT
-	* Solution Architect for Chatbots AI, AR/VR Games, Blockchain, UI/UX, iOS/Android Apps Experience.
+	* Solution Architect for AI/ML, Blockchain, AR/VR Games, UI/UX, iOS/Android Apps Experience.
 	SDE III
 	AgricxLab, Bengaluru
 	JAN 2018 - OCT 2018
 	* Implemented redesign of the website, storefront for customers, and architecture for multiple customer categories in a single tenancy.
-* Automated deployment by implementing CI/CD for Bitbucket Pipelines which also resulted in a 96% faster page load while using CDN for assets rendering.
+* Automated deployment by implementing CI/CD for Bitbucket Pipelines which resulted in a 96% faster page load while using CDN for assets rendering.
 	CEO & Founder
 	RhymeTek, Bengaluru
 	APR 2015  - DEC 2017
@@ -28,8 +28,9 @@ suvozit@icloud.com
 	Jr Gameplay Programmer
 	Ubisoft, Pune
 	OCT 2011 - DEC 2012
-	* Worked on gameplay and compliance for Far Cry Classic PS3 & X360 which is a port of the first Far Cry developed by Crytek 2004.
-* Translated PC Gameplay mechanics to console and PS3 Move Motion controller, implemented aim assist, responsive HUD for HD, and CRT TV.
+	* Worked on Far Cry Classic PS3 & X360 which is a port of the first Far Cry developed by Crytek 2004.
+* Improved 3C (controls, camera, and character), shooting mechanics, in-game physics for vehicles, sector streaming, environment interactions. 
+* Implemented aim assist, responsive HUD, PS3 Move Motion controls, and Xbox 360 TCR.
 	EDUCATION
 	BE Civil Engineering
 	IIEST, Shibpur
@@ -40,7 +41,7 @@ suvozit@icloud.com
 	* Winner of First Pitch 2013, E-Cell Eureka IIT Bombay among 120 participants.
 * Excellence award 2012 at Ubisoft, for extraordinary performance in a year.
 * Won Intel Level Up 2011 Best Education Game among 147 game demos entered from 35 countries.
-* Co-Founded BitSits Games, an Independent Game Dev Studio in 2010 which published 5 game titles on WP Marketplace and 1 demo on Steam.
+* Co-Founded BitSits Games, an Independent Game Dev Studio in 2010 which published 5 game titles on WP Marketplace and a demo on Steam.
 * Won 8 Tech Fests in the Software Design category including Tryst IITD, Kshitij IITK, and BITM.
 	LANGUAGES AND TECHNOLOGIES
 	NodeJS, Objective C, PHP, JavaScript, MySQL, HTML, CSS, C#, C, C++, Lua, Java
