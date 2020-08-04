@@ -41,7 +41,7 @@ suvozit@icloud.com
 	* Winner of First Pitch 2013, E-Cell Eureka IIT Bombay among 120 participants.
 * Excellence award 2012 at Ubisoft, for extraordinary performance in a year.
 * Won Intel Level Up 2011 Best Education Game among 147 game demos entered from 35 countries.
-* Co-Founded BitSits Games, an Independent Game Dev Studio in 2010 which published 5 game titles on WP Marketplace and a demo on Steam.
+* Co-Founded Bitsits Games, an Independent Game Dev Studio in 2010 which published 5 game titles on WP Marketplace and a demo on Steam.
 * Won 8 Tech Fests in the Software Design category including Tryst IITD, Kshitij IITK, and BITM.
 	LANGUAGES AND TECHNOLOGIES
 	NodeJS, Objective C, PHP, JavaScript, MySQL, HTML, CSS, C#, C, C++, Lua, Java
