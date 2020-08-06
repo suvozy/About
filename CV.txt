@@ -44,8 +44,8 @@ suvozit@icloud.com
 * Co-Founded Bitsits Games, an Independent Game Dev Studio in 2010 which published 5 game titles on WP Marketplace and a demo on Steam.
 * Won 8 Tech Fests in the Software Design category including Tryst IITD, Kshitij IITK, and BITM.
 	LANGUAGES AND TECHNOLOGIES
-	NodeJS, Objective C, PHP, JavaScript, MySQL, HTML, CSS, C#, C, C++, Lua, Java
-Unity3D, Google (TensorFlow, DialogFlow), CodeIgniter, Zend, AWS (Lex, OpsWorks, EBS, RDS, S3, SQS, CF, Lambda), OpenGL, XNA, .NET, Git, Adobe (Illustrator, Premier, Dreamweaver, XD)
+	Node.js, Objective-C, PHP, JavaScript, MySQL, HTML, CSS, SASS, C#, C, C++, Lua, Java
+Unity3D, Google (TensorFlow, DialogFlow), CodeIgniter, Zend, AWS (Lex, OpsWorks, EBS, RDS, S3, SQS, CF, Lambda), OpenGL, XNA, .NET, Git, Adobe (Illustrator, Premier Pro, Dreamweaver, XD)
 	PUBLICATIONS
 	1. S. Saha, G. Paul. “On effective Sharing of User Generated Content” in the proceedings of ACM APCHI 2013. Bengaluru, India.
 2. M. Agarwal, S. Saha. “Environment Educational Game Design” in the proceedings of Grace Hopper Celebration of Women in Computing India 2011. Bengaluru, India.
