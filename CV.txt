@@ -7,7 +7,7 @@ suvozit@icloud.com
 	Independent Consultant
 	Upwork
 	OCT  2018 - PRESENT
-	* Solution Architect for AI/ML, Blockchain, AR/VR Games, UI/UX, iOS/Android Apps Experience.
+	* Solution Architect for AWS Cloud, AI/ML, Blockchain, AR/VR Games, UI/UX, iOS/Android Apps Experience.
 	SDE III
 	AgricxLab, Bengaluru
 	JAN 2018 - OCT 2018
