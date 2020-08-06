@@ -45,7 +45,7 @@ suvozit@icloud.com
 * Won 8 Tech Fests in the Software Design category including Tryst IITD, Kshitij IITK, and BITM.
 	LANGUAGES AND TECHNOLOGIES
 	Node.js, Objective-C, PHP, JavaScript, MySQL, HTML, CSS, SASS, C#, C, C++, Lua, Java
-Unity3D, Google (TensorFlow, DialogFlow), CodeIgniter, Zend, AWS (Lex, OpsWorks, EBS, RDS, S3, SQS, CF, Lambda), OpenGL, XNA, .NET, Git, Adobe (Illustrator, Premier Pro, Dreamweaver, XD)
+Unity3D, Google (TensorFlow, DialogFlow, Flutter), CodeIgniter, Zend, AWS (Lex, OpsWorks, EBS, RDS, S3, SQS, CF, Lambda), OpenGL, XNA, .NET, Git, Adobe (Illustrator, Premier Pro, Dreamweaver, XD)
 	PUBLICATIONS
 	1. S. Saha, G. Paul. “On effective Sharing of User Generated Content” in the proceedings of ACM APCHI 2013. Bengaluru, India.
 2. M. Agarwal, S. Saha. “Environment Educational Game Design” in the proceedings of Grace Hopper Celebration of Women in Computing India 2011. Bengaluru, India.
