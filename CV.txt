@@ -14,7 +14,7 @@ suvozit@icloud.com
 	* Implemented redesign of the website, storefront for customers, and architecture for multiple customer categories in a single tenancy.
 * Automated deployment by implementing CI/CD for Bitbucket Pipelines which resulted in a 96% faster page load while using CDN for assets rendering.
 	CEO & Founder
-	RhymeTek, Bengaluru
+	Rhyme Tek, Bengaluru
 	APR 2015  - DEC 2017
 	* Rime was a content aggregation platform that allowed creators to build and host blogs.
 * Led the entire product development lifecycle from ideation to design to development based on constant feedback from early adopters.
@@ -49,4 +49,4 @@ Unity3D, Google (TensorFlow, DialogFlow), CodeIgniter, Zend, AWS (Lex, OpsWorks,
 	PUBLICATIONS
 	1. S. Saha, G. Paul. “On effective Sharing of User Generated Content” in the proceedings of ACM APCHI 2013. Bengaluru, India.
 2. M. Agarwal, S. Saha. “Environment Educational Game Design” in the proceedings of Grace Hopper Celebration of Women in Computing India 2011. Bengaluru, India.
-3. S. Saha, M. Agarwal. “Learning Chemistry through Puzzle Based Game: Atoms to Molecule” in the proceedings of the 9th IEEE ICETA 2011. StaraLesna, Slovakia.
+3. S. Saha, M. Agarwal. “Learning Chemistry through Puzzle Based Game: Atoms to Molecule” in the proceedings of the 9th IEEE ICETA 2011. Stara Lesna, Slovakia.
