@@ -23,6 +23,11 @@ Publication*
 
 ![](https://github.com/suvozit/About/raw/master/Projects/Far%20Cry.jpg)
 
+## Rubik's Cube Solver
+[Blog](https://suvozit.blogspot.com/2011/06/rubiks-cube-solver.html)
+
+![](https://github.com/suvozit/About/raw/master/Projects/Rubiks%20Cube.png)
+
 # Bitsits Games
 [Website](https://bitsits.blogspot.com)
 
@@ -82,8 +87,3 @@ Unreleased*
 [Video](https://suvozit.blogspot.com/2011/08/gombli-demo.html)
 
 ![](https://github.com/suvozit/About/raw/master/Projects/Gombli.png)
-
-## Rubik's Cube Solver
-[Blog](https://suvozit.blogspot.com/2011/06/rubiks-cube-solver.html)
-
-![](https://github.com/suvozit/About/raw/master/Projects/Rubiks%20Cube.png)
