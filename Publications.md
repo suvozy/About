@@ -1,7 +1,7 @@
 Publications
 ===
 
-- S. Saha, G. Paul. **On Effective Sharing of User Generated Content**, In the Proceedings of IndiaHCI 2013 and APCHI 2013. September 24-27 2013. Bangalore, India.
+- S. Saha, G. Paul. **On Effective Sharing of User Generated Content**, In the Proceedings of IndiaHCI 2013 and APCHI 2013. Bangalore, India 2013.
 
   [PDF](https://github.com/suvozit/APCHI-2013/blob/master/ugc_aphci2013_CAMERA.pdf)
   [Poster](https://github.com/suvozit/APCHI-2013/blob/master/ugc%20poster.pdf)
