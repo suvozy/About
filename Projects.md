@@ -1,6 +1,6 @@
 # Projects
 
-## Strings
+## String Your Story
 [Website](http://dsource.in/tool/string-your-story/)
 [Facebook](https://www.facebook.com/StringYourStory)
 
@@ -12,8 +12,11 @@
 
 ![](Projects/Dsource.png)
 
-## OCR + Ph.D. Thesis
-Publication*
+## OCR Toy
+[Source](https://github.com/IITB-P13098/Capture_Recognize_Display)
+[Website](https://www.cdac.in/index.aspx?id=mc_ocr_ocr)
+
+![](Projects/OCR.jpeg)
 
 ## FAR CRY® CLASSIC
 [Wiki](https://en.wikipedia.org/wiki/Far_Cry_(video_game))
