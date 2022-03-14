@@ -41,8 +41,7 @@ OCT 2011 - DEC 2012
 * Implemented aim assist, responsive HUD, PS3 Move Motion controls, and Xbox 360 TCR.
 Technologies Used: C | CPP | Lua | OpenGL
 	EDUCATION
-IIEST Shibpur, Howrah — 
-BE Civil Engineering
+IIEST Shibpur, Howrah — BE Civil Engineering
 2007 - 2011
 * Undergraduate Thesis “Application of GIS in Rural Road and Habitation Mapping”. Developed a habitation database and rural road network database at the block level.
 * First Class 75.9%
@@ -58,5 +57,5 @@ AWARDS
 * Winner of First Pitch 2013, E-Cell Eureka IIT Bombay among 120 participants.
 * Excellence award 2012 at Ubisoft, for extraordinary performance in a year.
 * Won Intel Level Up 2011 Best Education Game among 147 game demos entered from 35 countries.
-* Co-Founded Bitsits Games, an Independent Game Dev Studio in 2010 which published 5 game titles on Windows Phone Marketplace and a demo on Steam.
 * Won 8 Tech Fests in the Software Design category in 2011 including BITM, Kshitij IITK, and Tryst IITD.
+* Co-Founded Bitsits Games, an Independent Game Dev Studio in 2010 which published 5 game titles on Windows Phone Marketplace and a demo on Steam.
