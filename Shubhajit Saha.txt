@@ -1,52 +1,62 @@
-﻿Howrah, West Bengal. IN
-https://www.shubhajitsaha.com
-	SHUBHAJIT SAHA
-	(+91) 997018 6882
+﻿Shubhajit Saha
+Artist // Entrepreneur // Streamer
+	60, Sadar Boxi lane
+Howrah, WB 711101
+(997) 018-6882
 suvozit@icloud.com
-	EMPLOYMENT
-	Independent Consultant
-	Upwork
-	OCT  2018 - PRESENT
-	* Solution Architect for AWS Cloud, AI/ML, Blockchain, AR/VR Games, UI/UX, iOS/Android Apps Experience.
-	SDE III
-	AgricxLab, Bengaluru
-	JAN 2018 - OCT 2018
-	* Implemented redesign of the website, storefront for customers, and architecture for multiple customer categories in a single tenancy.
+	EXPERIENCE
+Germin8, Mumbai — Technical Lead
+SEP 2021 - PRESENT
+* Responsible for providing expertise in the software development life cycle, from concept, architecture, design, implementation, & testing.
+Technologies Used: Java | SpringBoot | Angular | MongoDB | GCP
+
+
+AgricxLab, Bengaluru — SDE III
+JAN 2018 - OCT 2018
+* Implemented redesign of the website, storefront for customers, and architecture for multiple customer categories in a single tenancy.
 * Automated deployment by implementing CI/CD for Bitbucket Pipelines which resulted in a 96% faster page load while using CDN for assets rendering.
-	CEO & Founder
-	Rhyme Tek, Bengaluru
-	APR 2015  - DEC 2017
-	* Rime was a content aggregation platform that allowed creators to build and host blogs.
+Technologies Used: PHP | MySQL | CodeIgniter | jQuery | Bootstrap | Ajax | AWS
+
+
+RhymeTek, Bengaluru — CEO & Founder
+APR 2015 - DEC 2017
+* Rime was an AI-driven content aggregation platform that allowed creators to build and host websites that sync with users' social activities.
 * Led the entire product development lifecycle from ideation to design to development based on constant feedback from early adopters.
-* Successfully implemented a content marketing strategy that was bringing 90% of the organic traffic.
-	Sr Project Technical Assistant
-	IDC IITB, Mumbai
-	JAN 2013 - MAR 2015
-	* Redesigned and built Dsource e-Kalpa from HTML publishing to WordPress CMS.
+* Successfully implemented a content marketing strategy that brought in  90% of the organic traffic.
+Technologies Used: PHP | MySQL | CodeIgniter | jQuery | Bootstrap | Ajax | AWS
+
+
+IDC IITB, Mumbai — Sr Project Technical Assistant
+JAN 2013 - MAR 2015
+* Redesigned and built Dsource e-Kalpa from HTML publishing to WordPress CMS.
 * Developed a storytelling platform “String Your Story”, the idea was to collaborate with a different mix of artists and create stories of multiple interpretations.
 * Developed a robust document image analysis & recognition system for printed Indian scripts with gamified OCR consortium.
-	Jr Gameplay Programmer
-	Ubisoft, Pune
-	OCT 2011 - DEC 2012
-	* Worked on Far Cry Classic PS3 & X360 which is a port of the first Far Cry developed by Crytek 2004.
+Technologies Used: C# | CPP | PHP | MySQL | CodeIgniter | jQuery | Ajax | AWS
+
+
+Ubisoft, Pune — Jr Gameplay Programmer
+OCT 2011 - DEC 2012
+* Worked on Far Cry Classic PS3 & X360 which is a port of the first Far Cry developed by Crytek in 2004.
 * Improved 3C (controls, camera, and character), shooting mechanics, in-game physics for vehicles, sector streaming, environment interactions. 
 * Implemented aim assist, responsive HUD, PS3 Move Motion controls, and Xbox 360 TCR.
+Technologies Used: C | CPP | Lua | OpenGL
 	EDUCATION
-	BE Civil Engineering
-	IIEST, Shibpur
-	2007 - 2011
-	* Undergraduate Thesis “Application of GIS in Rural Road and Habitation Mapping”. Developed a habitation database and rural road network database at the block level.
+IIEST Shibpur, Howrah — 
+BE Civil Engineering
+2007 - 2011
+* Undergraduate Thesis “Application of GIS in Rural Road and Habitation Mapping”. Developed a habitation database and rural road network database at the block level.
 * First Class 75.9%
-	ACHIEVEMENTS
-	* Winner of First Pitch 2013, E-Cell Eureka IIT Bombay among 120 participants.
-* Excellence award 2012 at Ubisoft, for extraordinary performance in a year.
-* Won Intel Level Up 2011 Best Education Game among 147 game demos entered from 35 countries.
-* Co-Founded Bitsits Games, an Independent Game Dev Studio in 2010 which published 5 game titles on WP Marketplace and a demo on Steam.
-* Won 8 Tech Fests in the Software Design category including Tryst IITD, Kshitij IITK, and BITM.
-	LANGUAGES AND TECHNOLOGIES
-	Node.js, Objective-C, PHP, JavaScript, MySQL, HTML, CSS, SASS, C#, C, C++, Lua, Java
-Unity3D, Google (TensorFlow, DialogFlow, Flutter), CodeIgniter, Zend, AWS (Lex, OpsWorks, EBS, RDS, S3, SQS, CF, Lambda), OpenGL, XNA, .NET, Git, Adobe (Illustrator, Premier Pro, Dreamweaver, XD)
-	PUBLICATIONS
-	1. S. Saha, G. Paul. “On effective Sharing of User Generated Content” in the proceedings of ACM APCHI 2013. Bengaluru, India.
+
+
+PUBLICATIONS
+1. S. Saha, G. Paul. “On effective Sharing of User Generated Content” in the proceedings of ACM APCHI 2013. Bengaluru, India.
 2. M. Agarwal, S. Saha. “Environment Educational Game Design” in the proceedings of Grace Hopper Celebration of Women in Computing India 2011. Bengaluru, India.
 3. S. Saha, M. Agarwal. “Learning Chemistry through Puzzle Based Game: Atoms to Molecule” in the proceedings of the 9th IEEE ICETA 2011. Stara Lesna, Slovakia.
+
+
+AWARDS
+* Winner of First Pitch 2013, E-Cell Eureka IIT Bombay among 120 participants.
+* Excellence award 2012 at Ubisoft, for extraordinary performance in a year.
+* Won Intel Level Up 2011 Best Education Game among 147 game demos entered from 35 countries.
+* Co-Founded Bitsits Games, an Independent Game Dev Studio in 2010 which published 5 game titles on Windows Phone Marketplace and a demo on Steam.
+* Won 8 Tech Fests in the Software Design category in 2011 including BITM, Kshitij IITK, and Tryst IITD.
